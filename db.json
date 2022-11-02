@@ -1,0 +1,28 @@
+{
+  "funcionario": [
+    {
+      "id": 1,
+      "nome": "Funcionario 1",
+      "cpf": "13245672891",
+      "rg": "19867524",
+      "dataNascimento": "20/10/2002",
+      "cargo": "Analista de Dados"
+    },
+    {
+      "id": 2,
+      "nome": "Fernando",
+      "cpf": "13245675423",
+      "rg": "19867123",
+      "dataNascimento": "20/04/1996",
+      "cargo": "Analista de Sistemas"
+    },
+    {
+      "nome": "Victor",
+      "cpf": "12388472695",
+      "rg": "18625346",
+      "cargo": "Teste 1",
+      "dataNascimento": "19/10/2010",
+      "id": 3
+    }
+  ]
+}

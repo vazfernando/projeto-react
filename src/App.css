@@ -1,137 +1,136 @@
 
-
 div.bigBody {
-position: relative;
-width: 1366px;
-height: 1213px;
+    position: relative;
+    width: 1366px;
+    height: 1213px;
 
-background: #F2F2F2;
+    background: #F2F2F2;
 }
 
 .stepsBar {
-  position: absolute;
-  width: 1242px;
-  height: 159px;
-  left: 90px;
-  top: 33px;
-  
-  background: #FFFFFF;
-  box-shadow: 0px 2px 23px rgba(0, 0, 0, 0.05);
-  border-radius: 20px;
+    position: absolute;
+    width: 1242px;
+    height: 159px;
+    left: 90px;
+    top: 33px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 2px 23px rgba(0, 0, 0, 0.05);
+    border-radius: 20px;
 }
 
 .stepsBarElements {
-position: absolute;
-width: 1189px;
-height: 70px;
-left: 20px;
-top: 58px;
-display: block;
-margin: auto;
+    position: absolute;
+    width: 1189px;
+    height: 70px;
+    left: 20px;
+    top: 58px;
+    display: block;
+    margin: auto;
 }
 
 .profileTrabalhador {
-  padding: 20px;
-  position: absolute;
-  width: 447px;
-  height: 484px;
-  left: 91px;
-  top: 225px;
+    padding: 20px;
+    position: absolute;
+    width: 447px;
+    height: 484px;
+    left: 91px;
+    top: 225px;
 
-  background: #FFFFFF;
-  box-shadow: 0px 2px 23px rgba(0, 0, 0, 0.05);
-  border-radius: 20px;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 23px rgba(0, 0, 0, 0.05);
+    border-radius: 20px;
 }
 
 .abaAzul {
-  /* position: absolute; */
-  font-family: Ubuntu;
-  font-size: 28px;
-  font-weight: 400;
-  line-height: 32px;
-  letter-spacing: 0em;
-  text-align: left;
-  color: white;
-  width: 759px;
-  height: 55px;
-  left: 572px;
-  top: 225px;
-  padding: 10px;
+    /* position: absolute; */
+    font-family: Ubuntu;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+    width: 759px;
+    height: 55px;
+    left: 572px;
+    top: 225px;
+    padding: 10px;
 
-  background: #4FA1C1;
-  border-radius: 20px 20px 0px 0px;
+    background: #4FA1C1;
+    border-radius: 20px 20px 0px 0px;
 
 
-  }
+}
 
 .coluna1 {
-position: absolute;
-width: 759px;
-height: 924px;
-left: 573px;
-top: 225px;
+    position: absolute;
+    width: 759px;
+    height: 924px;
+    left: 573px;
+    top: 225px;
 
-background: #FFFFFF;
-box-shadow: 0px 2px 23px rgba(0, 0, 0, 0.05);
-border-radius: 20px;
-  
+    background: #FFFFFF;
+    box-shadow: 0px 2px 23px rgba(0, 0, 0, 0.05);
+    border-radius: 20px;
+
 }
 
 .inputStyle {
-  /* box-sizing: border-box;
-  position: absolute;
-  left: 44.07%;
-  right: 31.19%;
-  top: 32.98%;
-  bottom: 64.06%;
-  
-  background: #FFFFFF;
-  border: 1px solid #4FA1C1;
-  border-radius: 10px; */
-  }
+    /* box-sizing: border-box;
+    position: absolute;
+    left: 44.07%;
+    right: 31.19%;
+    top: 32.98%;
+    bottom: 64.06%;
+
+    background: #FFFFFF;
+    border: 1px solid #4FA1C1;
+    border-radius: 10px; */
+}
 
 .coluna2 {
-  box-sizing: border-box;
-  padding: 20px;
-  /* position: absolute; */
-  left: 43.19%;
-  right: 3.73%;
-  top: 0.09%;
-  bottom: 50.54%;
-  
-  border: 1px solid #4FA1C1;
-  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
-  border-radius: 10px;
-  }
+    box-sizing: border-box;
+    padding: 20px;
+    /* position: absolute; */
+    left: 43.19%;
+    right: 3.73%;
+    top: 0.09%;
+    bottom: 50.54%;
+
+    border: 1px solid #4FA1C1;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 10px;
+}
 
 .coluna3 {
-  box-sizing: border-box;
+    box-sizing: border-box;
 
-  /* position: absolute; */
-  left: 43.34%;
-  right: 3.51%;
-  top: 51.61%;
-  bottom: 24.15%;
-  
-  border: 1px solid #4FA1C1;
-  border-radius: 10px;
-  }
+    /* position: absolute; */
+    left: 43.34%;
+    right: 3.51%;
+    top: 51.61%;
+    bottom: 24.15%;
+
+    border: 1px solid #4FA1C1;
+    border-radius: 10px;
+}
 
 .coluna4 {
-  box-sizing: border-box;
+    box-sizing: border-box;
 
-  /* position: absolute; */
-  left: 43.34%;
-  right: 3.51%;
-  top: 77.49%;
-  bottom: 11.38%;
-  
-  border: 1px solid #4FA1C1;
-  border-radius: 10px;
-  }
+    /* position: absolute; */
+    left: 43.34%;
+    right: 3.51%;
+    top: 77.49%;
+    bottom: 11.38%;
+
+    border: 1px solid #4FA1C1;
+    border-radius: 10px;
+}
 
 .headerBar {
-  background-color: red;
+    background-color: red;
 }
 
 
